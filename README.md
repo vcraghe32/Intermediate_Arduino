@@ -1,2 +1,2 @@
 # Intermediate_Arduino
-My Intermediate_Arduino assingments
+Assignments: New Ping, LCD, Continuous Rotation Servo, LCD backpack, Photo Interuptor, Potentiometer, Ultrasonic Sensor.
