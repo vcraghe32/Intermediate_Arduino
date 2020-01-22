@@ -43,7 +43,14 @@ Code:
 
 ## Potentiometers
 
-What it does: uses a potentiometer to control the brightness of the LCD
+What it does: Uses a potentiometer to control the variable printed out on the LCD screen.
+
+What I learned: How to measure a potentiometer and use it to control the LCD.
+
+Struggles: This assignment wasn't very difficult, but the wiring was a little hard.
+
+Code: 
+
 ## New Ping
 
 What it does: Uses New Ping to replace the distance function that we created in the first ultrasonic sensor project, and when you press a button the serial monitor shows the distance of an object away from the sensor.
@@ -54,4 +61,13 @@ Struggles: It look a while for me to figure out how to download the New Ping add
 
 Code:
 
+## Motor Control
+
+what it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
+
+What I learned: How to wire a diode and transistor and control a DC motor using a potentiometer.
+
+Struggles: I had a bad potentiometer and transistor, and the wiring was challenging. The code was fairly simple.
+
+Code: 
 
