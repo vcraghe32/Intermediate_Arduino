@@ -19,7 +19,7 @@ What I learned: How to set up an lcd screen and print out letters and integers o
 
 Struggles: It was hard to figure out how to wire the lcd and use new code for it. I had a bad lcd board so I had to switch it out.
 
-Code: 
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/lcdbackpack
 
 ## LCD backpack
 
@@ -29,7 +29,7 @@ What I learned: How to code and wire the LCD backpack.
 
 Struggles: I had complications with my backpacks and my LCD screens, so I had to switch them out. 
 
-Code:
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/lcdbackpack
 
 ## Photointerrupters
 
@@ -39,7 +39,7 @@ What I learned: How to control the power going to the LED using a phtointerrupte
 
 Struggles: I had to figure out how to use a boolean for the function, and how to use variables to my advantage.
 
-Code: 
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/photoversion1.ino
 
 ## Potentiometers
 
@@ -49,7 +49,7 @@ What I learned: How to measure a potentiometer and use it to control the LCD.
 
 Struggles: This assignment wasn't very difficult, but the wiring was a little hard.
 
-Code: 
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/potentiovi.ino
 
 ## New Ping
 
@@ -59,15 +59,15 @@ What I learned: How to download an addition to sublime and use it in my code.
 
 Struggles: It look a while for me to figure out how to download the New Ping addition to my computer, because it was glitching.
 
-Code:
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/newpingvi2originalgetdist.ino
 
 ## Motor Control
 
-what it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
+What it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
 
 What I learned: How to wire a diode and transistor and control a DC motor using a potentiometer.
 
 Struggles: I had a bad potentiometer and transistor, and the wiring was challenging. The code was fairly simple.
 
-Code: 
+Code:  
 
