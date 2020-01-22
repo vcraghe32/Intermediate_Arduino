@@ -10,6 +10,7 @@ What I learned: How to create an increasing and decreasing function and apply it
 Struggles: It was hard for me to get comfortable not using the digitalWrite command, but overall this assignment was straightforward.
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/LED_blink_revisited.ino 
+Wiring: <img src="" width="75">
 
 ## Hello LCD
 
