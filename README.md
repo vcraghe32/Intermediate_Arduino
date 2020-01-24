@@ -26,6 +26,12 @@ Struggles: It was hard to figure out how to wire the lcd and use new code for it
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/lcdbackpack
 
+Wiring:
+
+
+
+Credit: Paul B. CHS Sigma Wiki
+
 ## LCD backpack
 
 What it does: Uses an LCD backpack to control the brightness of the LCD, and simplify LCD wiring.
