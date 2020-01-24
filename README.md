@@ -28,7 +28,7 @@ Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/lcdbackpack
 
 Wiring:
 
-
+<img src="Images/lcd_wiring_no_backpack.JPG" width="450">
 
 Credit: Paul B. CHS Sigma Wiki
 
