@@ -101,3 +101,7 @@ Struggles: I had a bad potentiometer and transistor, and the wiring was challeng
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/blob/master/motorcontrolcoding/motorcontrolcoding.ino
 
+Wiring: 
+
+<img src="Images/motorcontrolwiring.JPG" width="450">
+
