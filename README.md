@@ -99,5 +99,5 @@ What I learned: How to wire a diode and transistor and control a DC motor using 
 
 Struggles: I had a bad potentiometer and transistor, and the wiring was challenging. The code was fairly simple.
 
-Code:  
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/blob/master/motorcontrolcoding/motorcontrolcoding.ino
 
