@@ -42,6 +42,11 @@ Struggles: I had complications with my backpacks and my LCD screens, so I had to
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/lcdbackpack
 
+Wiring:
+
+<img src="Images/lcdbackpackwiring.JPG" width="450">
+
+Credit: Paul B. CHS sigma wiki
 ## Photointerrupters
 
 What it does: Turns on the LED when something is between the two sides of the photointerrupter.
@@ -51,6 +56,10 @@ What I learned: How to control the power going to the LED using a phtointerrupte
 Struggles: I had to figure out how to use a boolean for the function, and how to use variables to my advantage.
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/photoversion1.ino
+
+Wiring:
+
+<img src="Images/photointerrupterwiring.JPG" width="450">
 
 ## Potentiometers
 
