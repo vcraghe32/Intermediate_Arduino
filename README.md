@@ -71,6 +71,12 @@ Struggles: This assignment wasn't very difficult, but the wiring was a little ha
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/potentiovi.ino
 
+Wiring:
+
+<img src="Images/potentiowiring.JPG" width="450">
+
+Credit: Alden D. CHS sigma wiki
+
 ## New Ping
 
 What it does: Uses New Ping to replace the distance function that we created in the first ultrasonic sensor project, and when you press a button the serial monitor shows the distance of an object away from the sensor.
