@@ -87,6 +87,10 @@ Struggles: It look a while for me to figure out how to download the New Ping add
 
 Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/newpingvi2originalgetdist.ino
 
+Wiring:
+
+<img src="Images/newpingwiring.JPG" width="450">
+
 ## Motor Control
 
 What it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
