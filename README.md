@@ -101,6 +101,11 @@ What I learned: How to wire and code a ultrasonic sensor, and use functions.
 
 Struggles: I had trouble figuring out how to wire the ultrasonic sensor.
 
+Wiring:
+
+<img src="Images/hellofunctionswiring.JPG" width="450">
+
+Credit: Dylan S. chs wiki
 
 ## New Ping
 
