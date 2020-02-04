@@ -77,6 +77,31 @@ Wiring:
 
 Credit: Alden D. CHS sigma wiki
 
+## Motor Control
+
+What it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
+
+What I learned: How to wire a diode and transistor and control a DC motor using a potentiometer.
+
+Struggles: I had a bad potentiometer and transistor, and the wiring was challenging. The code was fairly simple.
+
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/blob/master/motorcontrolcoding/motorcontrolcoding.ino
+
+Wiring: 
+
+<img src="Images/motorcontrolwiring.JPG" width="450">
+
+# Not so Basic Arduino
+
+## Hello Functions
+
+What it does: Senses the distance of your hand from the ultrasonic sensor and moves the servo accordingly.
+
+What I learned: How to wire and code a ultrasonic sensor, and use functions.
+
+Struggles: I had trouble figuring out how to wire the ultrasonic sensor.
+
+
 ## New Ping
 
 What it does: Uses New Ping to replace the distance function that we created in the first ultrasonic sensor project, and when you press a button the serial monitor shows the distance of an object away from the sensor.
@@ -90,14 +115,4 @@ Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/newpingvi2o
 Wiring:
 
 <img src="Images/newpingwiring.JPG" width="450">
-
-## Motor Control
-
-What it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
-
-What I learned: How to wire a diode and transistor and control a DC motor using a potentiometer.
-
-Struggles: I had a bad potentiometer and transistor, and the wiring was challenging. The code was fairly simple.
-
-Code:  https://github.com/vcraghe32/Intermediate_Arduino/blob/master/motorcontrolcoding/motorcontrolcoding.ino
 
