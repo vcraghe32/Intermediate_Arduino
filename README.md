@@ -77,20 +77,6 @@ Wiring:
 
 Credit: Alden D. CHS sigma wiki
 
-## New Ping
-
-What it does: Uses New Ping to replace the distance function that we created in the first ultrasonic sensor project, and when you press a button the serial monitor shows the distance of an object away from the sensor.
-
-What I learned: How to download an addition to sublime and use it in my code.
-
-Struggles: It look a while for me to figure out how to download the New Ping addition to my computer, because it was glitching.
-
-Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/newpingvi2originalgetdist.ino
-
-Wiring:
-
-<img src="Images/newpingwiring.JPG" width="450">
-
 ## Motor Control
 
 What it does: Controls the speed and direction of a motor based on the turn of the potentiometer.
@@ -104,4 +90,29 @@ Code:  https://github.com/vcraghe32/Intermediate_Arduino/blob/master/motorcontro
 Wiring: 
 
 <img src="Images/motorcontrolwiring.JPG" width="450">
+
+# Not so Basic Arduino
+
+## Hello Functions
+
+What it does: Senses the distance of your hand from the ultrasonic sensor and moves the servo accordingly.
+
+What I learned: How to wire and code a ultrasonic sensor, and use functions.
+
+Struggles: I had trouble figuring out how to wire the ultrasonic sensor.
+
+
+## New Ping
+
+What it does: Uses New Ping to replace the distance function that we created in the first ultrasonic sensor project, and when you press a button the serial monitor shows the distance of an object away from the sensor.
+
+What I learned: How to download an addition to sublime and use it in my code.
+
+Struggles: It look a while for me to figure out how to download the New Ping addition to my computer, because it was glitching.
+
+Code:  https://github.com/vcraghe32/Intermediate_Arduino/tree/master/newpingvi2originalgetdist.ino
+
+Wiring:
+
+<img src="Images/newpingwiring.JPG" width="450">
 
