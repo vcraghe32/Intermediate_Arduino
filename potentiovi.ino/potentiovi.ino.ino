@@ -24,7 +24,7 @@ void loop()
   analogWrite(ledPin, bright);          //Send PWM value to led
   delay(100);    
  display = map(bright, 0, 255, 0, 10); 
-    lcd.print(display);
+    lcd.print(display);//prints the value to the lcd screen
     delay(500);
 }
 
