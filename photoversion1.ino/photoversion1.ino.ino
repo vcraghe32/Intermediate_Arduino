@@ -11,14 +11,14 @@ void setup()
 
 void loop()
 {
-	Serial.println(lightstate);
+	Serial.println(lightstate); //prints out the variable boolean
 	digitalWrite(6, lightstate);
 	delay(10);
 }
 
 void photo()
 {
-	lightstate = !lightstate;
+	lightstate = !lightstate; //interrupts the function and makes it stop
 }
 
 
