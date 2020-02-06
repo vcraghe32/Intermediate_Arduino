@@ -14,6 +14,6 @@ void setup() {
 void loop() {
     
      if (digitalRead(buttonpin) == HIGH){
-     	Serial.println(myHC_SR04.ping_cm());
+     	Serial.println(myHC_SR04.ping_cm()); //prints out value from newping
      delay(50); }
 }
